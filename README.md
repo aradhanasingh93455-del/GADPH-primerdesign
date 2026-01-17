@@ -25,7 +25,9 @@ The goal was to design highly specific primers for the GAPDH gene, suitable for 
 ## Results Visualization
 Below is the graphical representation of the primer placement on the GAPDH template:
 
-![Primer BLAST Results](<img width="1920" height="1080" alt="Screenshot 2026-01-12 181205" src="https://github.com/user-attachments/assets/9da70c6e-70f6-4a98-a197-b8a752a98ae2" />)
+![Primer BLAST Results] 
+<img width="1920" height="1080" alt="Screenshot 2026-01-12 181205" src="https://github.com/user-attachments/assets/8797edae-0b3f-4682-a9c7-9a176644b859" />
+
 
 
 ## Analysis
